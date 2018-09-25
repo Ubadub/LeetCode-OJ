@@ -1,2 +1,2 @@
-# LeetCode-OJ-Python
-Solutions to problems on oj.leetcode.com in python
+# LeetCode
+Solutions to problems on leetcode.com in various languages (currently: Scala and Python)
